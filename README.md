@@ -42,7 +42,7 @@ This project aims to give users a basic experience of how mobile ordering apps f
 
 ## Technologies & Tools
 
-* Java (for main application logic)  
+* Kotlin (for main application logic)  
 * XML (for UI layout design)  
 * Android Studio (IDE used for development)  
 * Android SDK (APIs and tools)  
